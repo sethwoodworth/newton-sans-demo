@@ -1,0 +1,5 @@
+= Newton Sans Demo
+
+http://webapp1.dlib.indiana.edu/newton/reference/font.do[Newton Font]
+
+> The Chymistry of Isaac Newton Project collaborated with the Unicode Consortium's Technical Committee to introduce a large number of common sixteenth and seventeenth-century alchemical symbols into the Unicode Standard. Our Alchemy Unicode Proposal was officially adopted in 2009-10 and incorporated in Unicode 6.0 and later. The Newton Sans font supports all of the symbols in the Unicode Alchemy plane, which includes symbols that were in regular use in printed publications in the sixteenth and seventeenth centuries.
